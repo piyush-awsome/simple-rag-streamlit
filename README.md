@@ -1,3 +1,7 @@
+## 🔗 Live Demo
+
+👉 https://simple-rag-app-5rbvxbvxhorgaj9uv2w2kj.streamlit.app/
+
 # Simple RAG (Retrieval-Augmented Generation) Demo
 
 This project is a **simple, end-to-end Retrieval-Augmented Generation (RAG) application** built to demonstrate how large language models can answer questions from custom documents.
