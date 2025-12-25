@@ -71,20 +71,6 @@ This approach ensures the model answers **based on the document**, not hallucina
 
 This approach ensures the model answers **based on the document**, not hallucinations.
 
----
-
-## 🏗️ Project Structure
-
-simple-rag-streamlit/
-│
-├── app.py # Streamlit UI
-├── rag.py # RAG logic (loading, retrieval, generation)
-├── requirements.txt # Dependencies
-├── data/ # Temporary uploaded files
-└── README.md
-
----
-
 ## 🖥️ Tech Stack
 
 - **Python 3.10**
@@ -96,10 +82,3 @@ simple-rag-streamlit/
 - **PyPDF** – PDF parsing
 
 ---
-
-## ▶️ Running the App Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
